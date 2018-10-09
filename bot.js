@@ -3250,4 +3250,4 @@ client.on('guildMemberAdd', member => {
 				
 				
 				
-client.login("NDkyMzc1NDk4MDI3MDQwNzY4.DprSRg.6UnUSYiTNXY-xjb8ap-HnMxDtDQ")
+client.login(process.env.BOT_TAG);
